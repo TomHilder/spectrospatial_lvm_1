@@ -12,6 +12,9 @@
 # vscode
 .vscode/
 
+# Model files 
+*.model
+
 # MacOS
 *.DS_Store
 

@@ -1,0 +1,32 @@
+{
+  "λ_range": [
+    7273.35,
+    7289.35
+  ],
+  "α_range": [
+    96.96129777955356,
+    99.11142706579453
+  ],
+  "δ_range": [
+    3.761765223934234,
+    5.911894510175214
+  ],
+  "nans_strategy": "pixel",
+  "F_bad_strategy": "spaxel",
+  "F_range": [
+    -1e-14,
+    5e-14
+  ],
+  "fibre_status_include": [
+    0
+  ],
+  "apply_mask": true,
+  "normalise_F_strategy": "max only",
+  "normalise_F_offset": 0.0,
+  "normalise_F_scale": 1e-14,
+  "normalise_αδ_strategy": "padded",
+  "normalise_α_offset": 96.95065357516621,
+  "normalise_α_scale": 2.171417695015643,
+  "normalise_δ_offset": 3.822952193680033,
+  "normalise_δ_scale": 2.171417695015643
+}
