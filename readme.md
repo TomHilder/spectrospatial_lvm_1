@@ -1,5 +1,7 @@
 # Spectrospatial LVM 1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17276667.svg)](https://doi.org/10.5281/zenodo.17276667)
+
 Companion repository for our paper applying spectrospatial models to LVM data. This will not be actively updated, it is meant to be an archive.
 
 ## Notes
