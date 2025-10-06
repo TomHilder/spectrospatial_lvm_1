@@ -14,6 +14,6 @@ Companion repository for our paper applying spectrospatial models to LVM data. T
 
 ## TODO
 
-- [ ] Add link to Zenodo archive of this repo when done
+- [x] Add link to Zenodo archive of this repo when done
 - [ ] Add link to preprint when submitted
 - [ ] Add link to paper when published
